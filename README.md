@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Hey+I+am+Retesh+G+S....)](https://git.io/typing-svg)
+
+
 <h1 align="center">Hi 👋, I'm Retesh.G.S</h1>
 <h3 align="center">Driven by Curiosity | Passionate About Tech | Open Source Enthusiast | Lifelong Learner</h3>
 
