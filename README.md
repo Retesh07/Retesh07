@@ -1,5 +1,5 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hey+I+am+Retesh+G+S...." alt="Typing SVG" /></a>
-<h3 align="center">Driven by Curiosity | Passionate About Tech | Open Source Enthusiast | Lifelong Learner</h3>
+<a href="https://git.io/typing-svg"><center><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hey+I+am+Retesh+G+S...." alt="Typing SVG" /></center></a>
+<h3 align="left">Driven by Curiosity | Passionate About Tech | Open Source Enthusiast | Lifelong Learner</h3>
 
 - 🌱 I’m currently learning **full stack web development , data structure algorithms**
 
