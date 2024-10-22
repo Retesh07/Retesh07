@@ -1,4 +1,3 @@
-@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Retesh.G.S</h1>
 <h3 align="center">Driven by Curiosity | Passionate About Tech | Open Source Enthusiast | Lifelong Learner</h3>
 
