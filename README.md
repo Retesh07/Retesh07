@@ -1,5 +1,31 @@
-# 💫 About Me:
-🌱 I’m currently learning full stack web development , data structure algorithms<br>🌱 I’m currently learning web development , data structure algorithms<br><br>👯 I’m looking to collaborate on web projects
+# 💫 About Me
+
+🚀 Final Year Engineering Student passionate about Artificial Intelligence and Backend Development
+
+🌱 Currently learning and building with:
+
+* Agentic AI Systems (LangGraph, LangChain)
+* Retrieval-Augmented Generation (RAG)
+* Large Language Models (LLMs)
+* Backend Development with Python
+* Data Structures & Algorithms
+
+💡 Interested in:
+
+* AI Applications
+* Generative AI
+* Vector Databases
+* Scalable Backend Systems
+* Intelligent Document Processing
+
+👯 Looking to collaborate on:
+
+* AI/ML Projects
+* RAG Applications
+* Open Source AI Tools
+* Backend Development Projects
+
+🎯 Goal: Building production-ready AI applications and becoming a skilled Software Engineer
 
 
 ## 🌐 Socials:
