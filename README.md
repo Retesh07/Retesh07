@@ -13,7 +13,7 @@
 
 ## 💫 About Me
 
-🎓 Final-year **B.Tech Computer Science** student at **PES University, Bengaluru** (CGPA: 8.57/10.0)
+🎓 Final-year **B.Tech Computer Science** student at **PES University, Bengaluru** 
 
 🚀 Specializing in **backend development and distributed systems** — I love building fault-tolerant storage systems, RESTful APIs, microservices, and scalable full-stack applications
 
