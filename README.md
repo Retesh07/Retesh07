@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Retesh G S 👋</h1>
+<h1 align="center">Hi I'm Retesh G S 👋</h1>
 <h3 align="center">Software Engineering Student | Backend Development & Distributed Systems | AI/LLM Enthusiast</h3>
 
 <p align="center">
